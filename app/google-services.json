@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042211648595",
+    "firebase_url": "https://practicetodo-2523b.firebaseio.com",
+    "project_id": "practicetodo-2523b",
+    "storage_bucket": "practicetodo-2523b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042211648595:android:572c2fe3943729ac4982a6",
+        "android_client_info": {
+          "package_name": "com.kgec.trc.todofsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042211648595-7h95nmk7pubt31t9i1a7jqcprg4tjbb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDfwsc8F2yAgrHfk6palx5pl7UCSW4wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042211648595-7h95nmk7pubt31t9i1a7jqcprg4tjbb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
